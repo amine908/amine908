@@ -9,7 +9,7 @@ Passionné par l'intersection entre le **Matériel (Hardware)** et le **Logiciel
 
 J'ai regroupé mes projets académiques et réalisations techniques (VHDL, IoT, Java, SysAdmin) dans un dépôt centralisé.
 
- **[VOIR MON PORTFOLIO COMPLET & DOCUMENTATION](./Projets-Academiques)** 
+ **[VOIR MON PORTFOLIO COMPLET & DOCUMENTATION](https://github.com/amine908/Projets-Academiques)** 
 
 ---
 
