@@ -1,4 +1,4 @@
-# Salut, je suis Amine Belamine 👋
+# Salut, je suis Amine Belamine 
 ### Élève Ingénieur en Cyber Sécurité & Systèmes Embarqués @ ENSA
 
 Passionné par l'intersection entre le **Matériel (Hardware)** et le **Logiciel (Software)**, je conçois des systèmes sécurisés dès la conception (*Security by Design*).
